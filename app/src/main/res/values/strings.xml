@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Feedback</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="Que_1">Q 1. Overall how satisfied or dissatisfied with our company?</string>
+    <string name="neither_satisfied_or_dissatisfied">Neither satisfied or dissatisfied</string>
+    <string name="very_dissatisfied">Very dissatisfied</string>
+    <string name="somewhat_dissatisfied">Somewhat dissatisfied</string>
+    <string name="somewhat_satisfied">Somewhat satisfied</string>
+    <string name="very_satisfied">Very satisfied</string>
+    <string name="next">Next</string>
+    <string name="Que_2">Q 2.How would you rate the quality of product?</string>
+    <string name="very_high_quality">Very high quality</string>
+    <string name="high_quality">High quality</string>
+    <string name="low_quality">Low quality</string>
+    <string name="neither_low_or_high_quality">Neither low or high quality</string>
+    <string name="very_low_quality">Very low quality</string>
+    <string name="Que_3">Q 3. How well do our product meet your needs?</string>
+    <string name="extremely_well">Extremely well</string>
+    <string name="somewhat_well">Somewhat well</string>
+    <string name="very_well">Very well</string>
+    <string name="not_so_well">Not so well</string>
+    <string name="not_at_all_well">Not at all well</string>
+
+</resources>
